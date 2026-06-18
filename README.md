@@ -4,7 +4,7 @@ iOS application that uses Azure OpenAI (GPT‑4.1‑mini Vision) to analyze user
 https://share.vidyard.com/watch/MYpfdX4E1VTE4KPEfWVTiw?
 
 <img
-  style="width: 50%; margin: auto; display: block;"
+  style="width: 30%; margin: auto; display: block;"
   class="vidyard-player-embed"
   src="https://play.vidyard.com/MYpfdX4E1VTE4KPEfWVTiw.jpg"
   data-uuid="MYpfdX4E1VTE4KPEfWVTiw"
